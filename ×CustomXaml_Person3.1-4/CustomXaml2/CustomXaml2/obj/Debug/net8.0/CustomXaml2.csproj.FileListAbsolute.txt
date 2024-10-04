@@ -1,0 +1,14 @@
+C:\VS\VC_TEST\02_WPF\test4_WPF勉強01\CustomXaml_Person3.4\CustomXaml2\CustomXaml2\bin\Debug\net8.0\CustomXaml2.exe
+C:\VS\VC_TEST\02_WPF\test4_WPF勉強01\CustomXaml_Person3.4\CustomXaml2\CustomXaml2\bin\Debug\net8.0\CustomXaml2.deps.json
+C:\VS\VC_TEST\02_WPF\test4_WPF勉強01\CustomXaml_Person3.4\CustomXaml2\CustomXaml2\bin\Debug\net8.0\CustomXaml2.runtimeconfig.json
+C:\VS\VC_TEST\02_WPF\test4_WPF勉強01\CustomXaml_Person3.4\CustomXaml2\CustomXaml2\bin\Debug\net8.0\CustomXaml2.dll
+C:\VS\VC_TEST\02_WPF\test4_WPF勉強01\CustomXaml_Person3.4\CustomXaml2\CustomXaml2\bin\Debug\net8.0\CustomXaml2.pdb
+C:\VS\VC_TEST\02_WPF\test4_WPF勉強01\CustomXaml_Person3.4\CustomXaml2\CustomXaml2\obj\Debug\net8.0\CustomXaml2.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS\VC_TEST\02_WPF\test4_WPF勉強01\CustomXaml_Person3.4\CustomXaml2\CustomXaml2\obj\Debug\net8.0\CustomXaml2.AssemblyInfoInputs.cache
+C:\VS\VC_TEST\02_WPF\test4_WPF勉強01\CustomXaml_Person3.4\CustomXaml2\CustomXaml2\obj\Debug\net8.0\CustomXaml2.AssemblyInfo.cs
+C:\VS\VC_TEST\02_WPF\test4_WPF勉強01\CustomXaml_Person3.4\CustomXaml2\CustomXaml2\obj\Debug\net8.0\CustomXaml2.csproj.CoreCompileInputs.cache
+C:\VS\VC_TEST\02_WPF\test4_WPF勉強01\CustomXaml_Person3.4\CustomXaml2\CustomXaml2\obj\Debug\net8.0\CustomXaml2.dll
+C:\VS\VC_TEST\02_WPF\test4_WPF勉強01\CustomXaml_Person3.4\CustomXaml2\CustomXaml2\obj\Debug\net8.0\refint\CustomXaml2.dll
+C:\VS\VC_TEST\02_WPF\test4_WPF勉強01\CustomXaml_Person3.4\CustomXaml2\CustomXaml2\obj\Debug\net8.0\CustomXaml2.pdb
+C:\VS\VC_TEST\02_WPF\test4_WPF勉強01\CustomXaml_Person3.4\CustomXaml2\CustomXaml2\obj\Debug\net8.0\CustomXaml2.genruntimeconfig.cache
+C:\VS\VC_TEST\02_WPF\test4_WPF勉強01\CustomXaml_Person3.4\CustomXaml2\CustomXaml2\obj\Debug\net8.0\ref\CustomXaml2.dll

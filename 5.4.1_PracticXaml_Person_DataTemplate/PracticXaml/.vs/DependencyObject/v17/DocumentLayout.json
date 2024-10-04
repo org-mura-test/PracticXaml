@@ -1,0 +1,195 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\VS\\VC_TEST\\02_WPF\\test4_WPF\u52C9\u5F3701\\5.4.1_PracticXaml_Person_DataTemplate\\PracticXaml\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{767E58AC-6A0B-463C-9D61-833E99E89D9B}|DependencyObject\\PracticXaml.csproj|c:\\vs\\vc_test\\02_wpf\\test4_wpf\u52C9\u5F3701\\5.4.1_practicxaml_person_datatemplate\\practicxaml\\dependencyobject\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{767E58AC-6A0B-463C-9D61-833E99E89D9B}|DependencyObject\\PracticXaml.csproj|solutionrelative:dependencyobject\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{767E58AC-6A0B-463C-9D61-833E99E89D9B}|DependencyObject\\PracticXaml.csproj|c:\\vs\\vc_test\\02_wpf\\test4_wpf\u52C9\u5F3701\\5.4.1_practicxaml_person_datatemplate\\practicxaml\\dependencyobject\\classpersondatatemplateslector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{767E58AC-6A0B-463C-9D61-833E99E89D9B}|DependencyObject\\PracticXaml.csproj|solutionrelative:dependencyobject\\classpersondatatemplateslector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{767E58AC-6A0B-463C-9D61-833E99E89D9B}|DependencyObject\\PracticXaml.csproj|c:\\vs\\vc_test\\02_wpf\\test4_wpf\u52C9\u5F3701\\5.4.1_practicxaml_person_datatemplate\\practicxaml\\dependencyobject\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{767E58AC-6A0B-463C-9D61-833E99E89D9B}|DependencyObject\\PracticXaml.csproj|solutionrelative:dependencyobject\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{767E58AC-6A0B-463C-9D61-833E99E89D9B}|DependencyObject\\PracticXaml.csproj|c:\\vs\\vc_test\\02_wpf\\test4_wpf\u52C9\u5F3701\\5.4.1_practicxaml_person_datatemplate\\practicxaml\\dependencyobject\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{767E58AC-6A0B-463C-9D61-833E99E89D9B}|DependencyObject\\PracticXaml.csproj|solutionrelative:dependencyobject\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{767E58AC-6A0B-463C-9D61-833E99E89D9B}|DependencyObject\\PracticXaml.csproj|c:\\vs\\vc_test\\02_wpf\\test4_wpf\u52C9\u5F3701\\5.4.1_practicxaml_person_datatemplate\\practicxaml\\dependencyobject\\person3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{767E58AC-6A0B-463C-9D61-833E99E89D9B}|DependencyObject\\PracticXaml.csproj|solutionrelative:dependencyobject\\person3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{767E58AC-6A0B-463C-9D61-833E99E89D9B}|DependencyObject\\PracticXaml.csproj|c:\\vs\\vc_test\\02_wpf\\test4_wpf\u52C9\u5F3701\\5.4.1_practicxaml_person_datatemplate\\practicxaml\\dependencyobject\\person2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{767E58AC-6A0B-463C-9D61-833E99E89D9B}|DependencyObject\\PracticXaml.csproj|solutionrelative:dependencyobject\\person2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{767E58AC-6A0B-463C-9D61-833E99E89D9B}|DependencyObject\\PracticXaml.csproj|c:\\vs\\vc_test\\02_wpf\\test4_wpf\u52C9\u5F3701\\5.4.1_practicxaml_person_datatemplate\\practicxaml\\dependencyobject\\practicxaml.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{767E58AC-6A0B-463C-9D61-833E99E89D9B}|DependencyObject\\PracticXaml.csproj|solutionrelative:dependencyobject\\practicxaml.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{767E58AC-6A0B-463C-9D61-833E99E89D9B}|DependencyObject\\PracticXaml.csproj|c:\\vs\\vc_test\\02_wpf\\test4_wpf\u52C9\u5F3701\\5.4.1_practicxaml_person_datatemplate\\practicxaml\\dependencyobject\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{767E58AC-6A0B-463C-9D61-833E99E89D9B}|DependencyObject\\PracticXaml.csproj|solutionrelative:dependencyobject\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{767E58AC-6A0B-463C-9D61-833E99E89D9B}|DependencyObject\\PracticXaml.csproj|c:\\vs\\vc_test\\02_wpf\\test4_wpf\u52C9\u5F3701\\5.4.1_practicxaml_person_datatemplate\\practicxaml\\dependencyobject\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{767E58AC-6A0B-463C-9D61-833E99E89D9B}|DependencyObject\\PracticXaml.csproj|solutionrelative:dependencyobject\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{767E58AC-6A0B-463C-9D61-833E99E89D9B}|DependencyObject\\PracticXaml.csproj|c:\\vs\\vc_test\\02_wpf\\test4_wpf\u52C9\u5F3701\\5.4.1_practicxaml_person_datatemplate\\practicxaml\\dependencyobject\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{767E58AC-6A0B-463C-9D61-833E99E89D9B}|DependencyObject\\PracticXaml.csproj|solutionrelative:dependencyobject\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClassPersonDataTemplateSlector.cs",
+              "DocumentMoniker": "C:\\VS\\VC_TEST\\02_WPF\\test4_WPF\u52C9\u5F3701\\5.4.1_PracticXaml_Person_DataTemplate\\PracticXaml\\DependencyObject\\ClassPersonDataTemplateSlector.cs",
+              "RelativeDocumentMoniker": "DependencyObject\\ClassPersonDataTemplateSlector.cs",
+              "ToolTip": "C:\\VS\\VC_TEST\\02_WPF\\test4_WPF\u52C9\u5F3701\\5.4.1_PracticXaml_Person_DataTemplate\\PracticXaml\\DependencyObject\\ClassPersonDataTemplateSlector.cs",
+              "RelativeToolTip": "DependencyObject\\ClassPersonDataTemplateSlector.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T02:25:29.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\VS\\VC_TEST\\02_WPF\\test4_WPF\u52C9\u5F3701\\5.4.1_PracticXaml_Person_DataTemplate\\PracticXaml\\DependencyObject\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "DependencyObject\\MainWindow.xaml",
+              "ToolTip": "C:\\VS\\VC_TEST\\02_WPF\\test4_WPF\u52C9\u5F3701\\5.4.1_PracticXaml_Person_DataTemplate\\PracticXaml\\DependencyObject\\MainWindow.xaml",
+              "RelativeToolTip": "DependencyObject\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-03T04:11:59.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\VS\\VC_TEST\\02_WPF\\test4_WPF\u52C9\u5F3701\\5.4.1_PracticXaml_Person_DataTemplate\\PracticXaml\\DependencyObject\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DependencyObject\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\VS\\VC_TEST\\02_WPF\\test4_WPF\u52C9\u5F3701\\5.4.1_PracticXaml_Person_DataTemplate\\PracticXaml\\DependencyObject\\MainWindow.xaml.cs",
+              "RelativeToolTip": "DependencyObject\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAYwH4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T04:11:57.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\VS\\VC_TEST\\02_WPF\\test4_WPF\u52C9\u5F3701\\5.4.1_PracticXaml_Person_DataTemplate\\PracticXaml\\DependencyObject\\Person.cs",
+              "RelativeDocumentMoniker": "DependencyObject\\Person.cs",
+              "ToolTip": "C:\\VS\\VC_TEST\\02_WPF\\test4_WPF\u52C9\u5F3701\\5.4.1_PracticXaml_Person_DataTemplate\\PracticXaml\\DependencyObject\\Person.cs",
+              "RelativeToolTip": "DependencyObject\\Person.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAIwFkAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T04:12:13.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Person2.cs",
+              "DocumentMoniker": "C:\\VS\\VC_TEST\\02_WPF\\test4_WPF\u52C9\u5F3701\\5.4.1_PracticXaml_Person_DataTemplate\\PracticXaml\\DependencyObject\\Person2.cs",
+              "RelativeDocumentMoniker": "DependencyObject\\Person2.cs",
+              "ToolTip": "C:\\VS\\VC_TEST\\02_WPF\\test4_WPF\u52C9\u5F3701\\5.4.1_PracticXaml_Person_DataTemplate\\PracticXaml\\DependencyObject\\Person2.cs",
+              "RelativeToolTip": "DependencyObject\\Person2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T06:33:49.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Person3.cs",
+              "DocumentMoniker": "C:\\VS\\VC_TEST\\02_WPF\\test4_WPF\u52C9\u5F3701\\5.4.1_PracticXaml_Person_DataTemplate\\PracticXaml\\DependencyObject\\Person3.cs",
+              "RelativeDocumentMoniker": "DependencyObject\\Person3.cs",
+              "ToolTip": "C:\\VS\\VC_TEST\\02_WPF\\test4_WPF\u52C9\u5F3701\\5.4.1_PracticXaml_Person_DataTemplate\\PracticXaml\\DependencyObject\\Person3.cs",
+              "RelativeToolTip": "DependencyObject\\Person3.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAYwBsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T07:12:31.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PracticXaml",
+              "DocumentMoniker": "C:\\VS\\VC_TEST\\02_WPF\\test4_WPF\u52C9\u5F3701\\5.4.1_PracticXaml_Person_DataTemplate\\PracticXaml\\DependencyObject\\PracticXaml.csproj",
+              "RelativeDocumentMoniker": "DependencyObject\\PracticXaml.csproj",
+              "ToolTip": "C:\\VS\\VC_TEST\\02_WPF\\test4_WPF\u52C9\u5F3701\\5.4.1_PracticXaml_Person_DataTemplate\\PracticXaml\\DependencyObject\\PracticXaml.csproj",
+              "RelativeToolTip": "DependencyObject\\PracticXaml.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-03T04:19:22.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\VS\\VC_TEST\\02_WPF\\test4_WPF\u52C9\u5F3701\\5.4.1_PracticXaml_Person_DataTemplate\\PracticXaml\\DependencyObject\\App.xaml",
+              "RelativeDocumentMoniker": "DependencyObject\\App.xaml",
+              "ToolTip": "C:\\VS\\VC_TEST\\02_WPF\\test4_WPF\u52C9\u5F3701\\5.4.1_PracticXaml_Person_DataTemplate\\PracticXaml\\DependencyObject\\App.xaml",
+              "RelativeToolTip": "DependencyObject\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-03T04:19:35.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\VS\\VC_TEST\\02_WPF\\test4_WPF\u52C9\u5F3701\\5.4.1_PracticXaml_Person_DataTemplate\\PracticXaml\\DependencyObject\\App.xaml.cs",
+              "RelativeDocumentMoniker": "DependencyObject\\App.xaml.cs",
+              "ToolTip": "C:\\VS\\VC_TEST\\02_WPF\\test4_WPF\u52C9\u5F3701\\5.4.1_PracticXaml_Person_DataTemplate\\PracticXaml\\DependencyObject\\App.xaml.cs",
+              "RelativeToolTip": "DependencyObject\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T04:19:52.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\VS\\VC_TEST\\02_WPF\\test4_WPF\u52C9\u5F3701\\5.4.1_PracticXaml_Person_DataTemplate\\PracticXaml\\DependencyObject\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "DependencyObject\\AssemblyInfo.cs",
+              "ToolTip": "C:\\VS\\VC_TEST\\02_WPF\\test4_WPF\u52C9\u5F3701\\5.4.1_PracticXaml_Person_DataTemplate\\PracticXaml\\DependencyObject\\AssemblyInfo.cs",
+              "RelativeToolTip": "DependencyObject\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T04:24:58.399Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+﻿<Window x:Class="PracticXaml.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PracticXaml"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+
+    <Window.Resources>
+        <DataTemplate x:Key="PersonTemplate"  DataType="{x:Type local:Person}">
+            <!--         <DataTemplate  DataType="{x:Type local:Person}"> -->
+            <Border x:Name="border" BorderBrush="Red" BorderThickness="2" Padding="5" >
+                <StackPanel Orientation="Horizontal">
+                    <Label Content="Name" />
+                    <TextBlock Text="{Binding Name}" VerticalAlignment="Center" />
+                    <Label Content="Age" />
+                    <TextBlock Text="{Binding Age}" VerticalAlignment="Center" />
+
+                </StackPanel>
+            </Border>
+            <DataTemplate.Triggers>
+                <DataTrigger Binding="{Binding IsOver40}" Value="True">
+                    <Setter TargetName="border" Property="BorderBrush" Value="Blue" />
+                </DataTrigger>
+            </DataTemplate.Triggers>
+        </DataTemplate>
+        <!-- NameとAgeを表示 -->
+        <DataTemplate x:Key="PersonTemplate1" DataType="{x:Type local:Person}" >
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Name" />
+                <TextBlock Text="{Binding Name}" VerticalAlignment="Center" />
+                <Label Content="Age" />
+                <TextBlock Text="{Binding Age}" VerticalAlignment="Center" />
+            </StackPanel>
+        </DataTemplate>
+        <!-- Nameだけ表示 -->
+        <DataTemplate x:Key="PersonTemplate2" DataType="{x:Type local:Person}" >
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Name" />
+                <TextBlock Text="{Binding Name}" VerticalAlignment="Center" />
+            </StackPanel>
+        </DataTemplate>
+    </Window.Resources>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="33*"/>
+            <RowDefinition Height="19*"/>
+        </Grid.RowDefinitions>
+
+
+        <Button x:Name="Btn1_Get" Content="Btn1 ゲット" HorizontalAlignment="Left" Height="50" Margin="183,0,0,0" VerticalAlignment="Center" Width="127" Click="BtnGet_Click"/>
+        <Button Content="Btn1 セット" HorizontalAlignment="Left" Height="50" Margin="315,0,0,0" 
+                VerticalAlignment="Center" Width="127" Click="BtnSet_Click"/>
+        <Button Grid.Row="0" Content="Button1" Margin="0,0,713,10" Click="Button1_Click" />
+        <Button Grid.Row="1" Content="Button2" Margin="0,0,713,231" Grid.RowSpan="3" Click="Button2_Click" />
+
+        <StackPanel ButtonBase.Click="StackPanel_Click" Margin="0,24,506,137" Grid.Row="3" >
+            <Button Content="Button3" Click="Button_Click_1" />
+        </StackPanel>
+
+        <!-- 
+        <ListBox x:Name="Listbox1" Margin="0,94,0,10" Grid.Row="3"
+            d:ItemsSource="{d:SampleData ItemCount=5}" SelectionChanged="Listbox1_SelectionChanged">
+            <ListBox.ItemTemplate >
+                <DataTemplate DataType="{x:Type local:Person}">
+                    <Border BorderBrush="Red" BorderThickness="1" Padding="5" >
+                        <StackPanel Orientation="Horizontal">
+                            <Label Content="Name" />
+                            <TextBlock Text="{Binding Name}" VerticalAlignment="Center" />
+                            <Label Content="Age" />
+                            <TextBlock Text="{Binding Age}" VerticalAlignment="Center" />
+
+                        </StackPanel>
+                    </Border>
+
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+        -->
+        <ListBox x:Name="Listbox1" Margin="0,82,454,140" Grid.Row="3" Grid.RowSpan="2" 
+                 ItemTemplate="{StaticResource PersonTemplate}"  
+                 />
+        <!--
+        <ListBox x:Name="Listbox1" Margin="0,82,0,140" Grid.Row="3" Grid.RowSpan="2"  />
+        -->
+        <ListBox x:Name="Listbox2" Margin="351,82,144,10" Grid.Row="3" >
+            <ListBox.ItemTemplateSelector>
+                <local:ClassPersonDataTemplateSlector />
+            </ListBox.ItemTemplateSelector>
+        </ListBox>
+
+
+
+
+    </Grid>
+</Window>

@@ -1,0 +1,16 @@
+C:\VS\VC_TEST\02_WPF\test4_WPF勉強01\CustomXaml_Person3.3\Person\Person\bin\Debug\net8.0-windows\Person.deps.json
+C:\VS\VC_TEST\02_WPF\test4_WPF勉強01\CustomXaml_Person3.3\Person\Person\bin\Debug\net8.0-windows\Person.dll
+C:\VS\VC_TEST\02_WPF\test4_WPF勉強01\CustomXaml_Person3.3\Person\Person\bin\Debug\net8.0-windows\Person.pdb
+C:\VS\VC_TEST\02_WPF\test4_WPF勉強01\CustomXaml_Person3.3\Person\Person\obj\Debug\net8.0-windows\Person.g.cs
+C:\VS\VC_TEST\02_WPF\test4_WPF勉強01\CustomXaml_Person3.3\Person\Person\obj\Debug\net8.0-windows\Person_MarkupCompile.cache
+C:\VS\VC_TEST\02_WPF\test4_WPF勉強01\CustomXaml_Person3.3\Person\Person\obj\Debug\net8.0-windows\Person_MarkupCompile.lref
+C:\VS\VC_TEST\02_WPF\test4_WPF勉強01\CustomXaml_Person3.3\Person\Person\obj\Debug\net8.0-windows\Person.baml
+C:\VS\VC_TEST\02_WPF\test4_WPF勉強01\CustomXaml_Person3.3\Person\Person\obj\Debug\net8.0-windows\Person.g.resources
+C:\VS\VC_TEST\02_WPF\test4_WPF勉強01\CustomXaml_Person3.3\Person\Person\obj\Debug\net8.0-windows\Person.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS\VC_TEST\02_WPF\test4_WPF勉強01\CustomXaml_Person3.3\Person\Person\obj\Debug\net8.0-windows\Person.AssemblyInfoInputs.cache
+C:\VS\VC_TEST\02_WPF\test4_WPF勉強01\CustomXaml_Person3.3\Person\Person\obj\Debug\net8.0-windows\Person.AssemblyInfo.cs
+C:\VS\VC_TEST\02_WPF\test4_WPF勉強01\CustomXaml_Person3.3\Person\Person\obj\Debug\net8.0-windows\Person.csproj.CoreCompileInputs.cache
+C:\VS\VC_TEST\02_WPF\test4_WPF勉強01\CustomXaml_Person3.3\Person\Person\obj\Debug\net8.0-windows\Person.dll
+C:\VS\VC_TEST\02_WPF\test4_WPF勉強01\CustomXaml_Person3.3\Person\Person\obj\Debug\net8.0-windows\refint\Person.dll
+C:\VS\VC_TEST\02_WPF\test4_WPF勉強01\CustomXaml_Person3.3\Person\Person\obj\Debug\net8.0-windows\Person.pdb
+C:\VS\VC_TEST\02_WPF\test4_WPF勉強01\CustomXaml_Person3.3\Person\Person\obj\Debug\net8.0-windows\ref\Person.dll

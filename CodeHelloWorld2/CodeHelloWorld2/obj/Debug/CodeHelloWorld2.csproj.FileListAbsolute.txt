@@ -1,0 +1,6 @@
+C:\VS\VC_TEST\02_WPF\test4_WPF勉強01\CodeHelloWorld2\CodeHelloWorld2\bin\Debug\CodeHelloWorld2.pdb
+C:\VS\VC_TEST\02_WPF\test4_WPF勉強01\CodeHelloWorld2\CodeHelloWorld2\obj\Debug\CodeHelloWorld2.csproj.AssemblyReference.cache
+C:\VS\VC_TEST\02_WPF\test4_WPF勉強01\CodeHelloWorld2\CodeHelloWorld2\obj\Debug\CodeHelloWorld2.csproj.CoreCompileInputs.cache
+C:\VS\VC_TEST\02_WPF\test4_WPF勉強01\CodeHelloWorld2\CodeHelloWorld2\obj\Debug\CodeHelloWorld2.pdb
+C:\VS\VC_TEST\02_WPF\test4_WPF勉強01\CodeHelloWorld2\CodeHelloWorld2\bin\Debug\CodeHelloWorld2.exe
+C:\VS\VC_TEST\02_WPF\test4_WPF勉強01\CodeHelloWorld2\CodeHelloWorld2\obj\Debug\CodeHelloWorld2.exe

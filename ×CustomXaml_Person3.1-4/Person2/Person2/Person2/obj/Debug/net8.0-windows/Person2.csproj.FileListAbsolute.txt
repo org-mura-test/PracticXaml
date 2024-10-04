@@ -1,0 +1,11 @@
+C:\VS\VC_TEST\02_WPF\test4_WPF勉強01\CustomXaml_Person3.4\Person2\Person2\Person2\bin\Debug\net8.0-windows\Person2.deps.json
+C:\VS\VC_TEST\02_WPF\test4_WPF勉強01\CustomXaml_Person3.4\Person2\Person2\Person2\bin\Debug\net8.0-windows\Person2.dll
+C:\VS\VC_TEST\02_WPF\test4_WPF勉強01\CustomXaml_Person3.4\Person2\Person2\Person2\bin\Debug\net8.0-windows\Person2.pdb
+C:\VS\VC_TEST\02_WPF\test4_WPF勉強01\CustomXaml_Person3.4\Person2\Person2\Person2\obj\Debug\net8.0-windows\Person2.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS\VC_TEST\02_WPF\test4_WPF勉強01\CustomXaml_Person3.4\Person2\Person2\Person2\obj\Debug\net8.0-windows\Person2.AssemblyInfoInputs.cache
+C:\VS\VC_TEST\02_WPF\test4_WPF勉強01\CustomXaml_Person3.4\Person2\Person2\Person2\obj\Debug\net8.0-windows\Person2.AssemblyInfo.cs
+C:\VS\VC_TEST\02_WPF\test4_WPF勉強01\CustomXaml_Person3.4\Person2\Person2\Person2\obj\Debug\net8.0-windows\Person2.csproj.CoreCompileInputs.cache
+C:\VS\VC_TEST\02_WPF\test4_WPF勉強01\CustomXaml_Person3.4\Person2\Person2\Person2\obj\Debug\net8.0-windows\Person2.dll
+C:\VS\VC_TEST\02_WPF\test4_WPF勉強01\CustomXaml_Person3.4\Person2\Person2\Person2\obj\Debug\net8.0-windows\refint\Person2.dll
+C:\VS\VC_TEST\02_WPF\test4_WPF勉強01\CustomXaml_Person3.4\Person2\Person2\Person2\obj\Debug\net8.0-windows\Person2.pdb
+C:\VS\VC_TEST\02_WPF\test4_WPF勉強01\CustomXaml_Person3.4\Person2\Person2\Person2\obj\Debug\net8.0-windows\ref\Person2.dll

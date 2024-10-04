@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\VS\\VC_TEST\\02_WPF\\test4_WPF\u52C9\u5F3701\\CustomXaml_Person3.4\\Person2\\Person2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85060423-9F83-4D0D-AE6F-8DED022C8AC6}|Person2\\Person2.csproj|c:\\vs\\vc_test\\02_wpf\\test4_wpf\u52C9\u5F3701\\customxaml_person3.4\\person2\\person2\\person2\\person2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{85060423-9F83-4D0D-AE6F-8DED022C8AC6}|Person2\\Person2.csproj|solutionrelative:person2\\person2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85060423-9F83-4D0D-AE6F-8DED022C8AC6}|Person2\\Person2.csproj|c:\\vs\\vc_test\\02_wpf\\test4_wpf\u52C9\u5F3701\\customxaml_person3.4\\person2\\person2\\person2\\person.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{85060423-9F83-4D0D-AE6F-8DED022C8AC6}|Person2\\Person2.csproj|solutionrelative:person2\\person.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85060423-9F83-4D0D-AE6F-8DED022C8AC6}|Person2\\Person2.csproj|c:\\vs\\vc_test\\02_wpf\\test4_wpf\u52C9\u5F3701\\customxaml_person3.4\\person2\\person2\\person2\\person.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85060423-9F83-4D0D-AE6F-8DED022C8AC6}|Person2\\Person2.csproj|solutionrelative:person2\\person.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Person2",
+              "DocumentMoniker": "C:\\VS\\VC_TEST\\02_WPF\\test4_WPF\u52C9\u5F3701\\CustomXaml_Person3.4\\Person2\\Person2\\Person2\\Person2.csproj",
+              "RelativeDocumentMoniker": "Person2\\Person2.csproj",
+              "ToolTip": "C:\\VS\\VC_TEST\\02_WPF\\test4_WPF\u52C9\u5F3701\\CustomXaml_Person3.4\\Person2\\Person2\\Person2\\Person2.csproj",
+              "RelativeToolTip": "Person2\\Person2.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-30T08:46:52.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.xaml.cs",
+              "DocumentMoniker": "C:\\VS\\VC_TEST\\02_WPF\\test4_WPF\u52C9\u5F3701\\CustomXaml_Person3.4\\Person2\\Person2\\Person2\\Person.xaml.cs",
+              "RelativeDocumentMoniker": "Person2\\Person.xaml.cs",
+              "ToolTip": "C:\\VS\\VC_TEST\\02_WPF\\test4_WPF\u52C9\u5F3701\\CustomXaml_Person3.4\\Person2\\Person2\\Person2\\Person.xaml.cs",
+              "RelativeToolTip": "Person2\\Person.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T08:05:15.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.xaml",
+              "DocumentMoniker": "C:\\VS\\VC_TEST\\02_WPF\\test4_WPF\u52C9\u5F3701\\CustomXaml_Person3.4\\Person2\\Person2\\Person2\\Person.xaml",
+              "RelativeDocumentMoniker": "Person2\\Person.xaml",
+              "ToolTip": "C:\\VS\\VC_TEST\\02_WPF\\test4_WPF\u52C9\u5F3701\\CustomXaml_Person3.4\\Person2\\Person2\\Person2\\Person.xaml",
+              "RelativeToolTip": "Person2\\Person.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-30T08:05:10.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

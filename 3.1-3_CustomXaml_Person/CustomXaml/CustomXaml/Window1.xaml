@@ -1,0 +1,38 @@
+﻿<Window x:Class="CustomXaml.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CustomXaml"
+        xmlns:p="clr-namespace:CustomXamlPerson;assembly=CustomXamlPerson" 
+        mc:Ignorable="d"
+        Title="Window1" Height="450" Width="800">
+
+
+    <Grid Margin="202,0,58,-6">
+        <!--
+        <p:Person xmlns:p="clr-namespace:CustomXaml1;assembly=CustomXaml1" />
+        <p:Person></p:Person>
+        <TextBox>
+            <d:TextBlock Text="aaa" ></d:TextBlock>
+        </TextBox>
+        -->
+
+        <TextBox HorizontalAlignment="Left" Height="41" Margin="52,42,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="164"/>
+        <Button Name="btn1"  Content="Button1" HorizontalAlignment="Left" Height="44" Margin="52,111,0,0" VerticalAlignment="Top" Width="105" Click="btn1_Click"/>
+
+        <TextBlock Margin="34,160,359,230" Height="50" >固定文字１</TextBlock>
+        <p:UserControl1 Name="ctrPerson" Height="50" Margin="34,210,406,180" Background="red" 
+                        Foreground="Yellow" FontSize="24" 
+                         >
+
+            <TextBlock Margin="0,-1,0,1">固定文字２</TextBlock>
+        </p:UserControl1>
+        <p:UserControl1  Height="50" Margin="34,283,406,107" Background="Gray" />
+
+
+    </Grid>
+
+
+</Window>
+        

@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+    <StartupObject>CustomXaml.App</StartupObject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Page Remove="Person2w.xaml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Person2w.xaml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="CustomXaml2">
+      <HintPath>..\..\CustomXaml2\CustomXaml2\bin\Debug\net8.0\CustomXaml2.dll</HintPath>
+    </Reference>
+    <Reference Include="CustomXamlPerson">
+      <HintPath>..\..\Person\Person\bin\Debug\net8.0-windows\CustomXamlPerson.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

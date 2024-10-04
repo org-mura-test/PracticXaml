@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\VS\\VC_TEST\\02_WPF\\test4_WPF\u52C9\u5F3701\\CustomXaml_Person3.1\\CustomXaml\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB12DDA2-7EF6-4B74-8B70-067387FA273F}|CustomXaml\\CustomXaml.csproj|c:\\vs\\vc_test\\02_wpf\\test4_wpf\u52C9\u5F3701\\customxaml_person3.1\\customxaml\\customxaml\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AB12DDA2-7EF6-4B74-8B70-067387FA273F}|CustomXaml\\CustomXaml.csproj|solutionrelative:customxaml\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB12DDA2-7EF6-4B74-8B70-067387FA273F}|CustomXaml\\CustomXaml.csproj|c:\\vs\\vc_test\\02_wpf\\test4_wpf\u52C9\u5F3701\\customxaml_person3.1\\customxaml\\customxaml\\person.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AB12DDA2-7EF6-4B74-8B70-067387FA273F}|CustomXaml\\CustomXaml.csproj|solutionrelative:customxaml\\person.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB12DDA2-7EF6-4B74-8B70-067387FA273F}|CustomXaml\\CustomXaml.csproj|c:\\vs\\vc_test\\02_wpf\\test4_wpf\u52C9\u5F3701\\customxaml_person3.1\\customxaml\\customxaml\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AB12DDA2-7EF6-4B74-8B70-067387FA273F}|CustomXaml\\CustomXaml.csproj|solutionrelative:customxaml\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB12DDA2-7EF6-4B74-8B70-067387FA273F}|CustomXaml\\CustomXaml.csproj|c:\\vs\\vc_test\\02_wpf\\test4_wpf\u52C9\u5F3701\\customxaml_person3.1\\customxaml\\customxaml\\customxaml.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{AB12DDA2-7EF6-4B74-8B70-067387FA273F}|CustomXaml\\CustomXaml.csproj|solutionrelative:customxaml\\customxaml.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB12DDA2-7EF6-4B74-8B70-067387FA273F}|CustomXaml\\CustomXaml.csproj|c:\\vs\\vc_test\\02_wpf\\test4_wpf\u52C9\u5F3701\\customxaml_person3.1\\customxaml\\customxaml\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB12DDA2-7EF6-4B74-8B70-067387FA273F}|CustomXaml\\CustomXaml.csproj|solutionrelative:customxaml\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB12DDA2-7EF6-4B74-8B70-067387FA273F}|CustomXaml\\CustomXaml.csproj|c:\\vs\\vc_test\\02_wpf\\test4_wpf\u52C9\u5F3701\\customxaml_person3.1\\customxaml\\customxaml\\person.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB12DDA2-7EF6-4B74-8B70-067387FA273F}|CustomXaml\\CustomXaml.csproj|solutionrelative:customxaml\\person.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB12DDA2-7EF6-4B74-8B70-067387FA273F}|CustomXaml\\CustomXaml.csproj|c:\\vs\\vc_test\\02_wpf\\test4_wpf\u52C9\u5F3701\\customxaml_person3.1\\customxaml\\customxaml\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB12DDA2-7EF6-4B74-8B70-067387FA273F}|CustomXaml\\CustomXaml.csproj|solutionrelative:customxaml\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\VS\\VC_TEST\\02_WPF\\test4_WPF\u52C9\u5F3701\\CustomXaml_Person3.1\\CustomXaml\\CustomXaml\\App.xaml",
+              "RelativeDocumentMoniker": "CustomXaml\\App.xaml",
+              "ToolTip": "C:\\VS\\VC_TEST\\02_WPF\\test4_WPF\u52C9\u5F3701\\CustomXaml_Person3.1\\CustomXaml\\CustomXaml\\App.xaml",
+              "RelativeToolTip": "CustomXaml\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-27T01:42:06.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomXaml",
+              "DocumentMoniker": "C:\\VS\\VC_TEST\\02_WPF\\test4_WPF\u52C9\u5F3701\\CustomXaml_Person3.1\\CustomXaml\\CustomXaml\\CustomXaml.csproj",
+              "RelativeDocumentMoniker": "CustomXaml\\CustomXaml.csproj",
+              "ToolTip": "C:\\VS\\VC_TEST\\02_WPF\\test4_WPF\u52C9\u5F3701\\CustomXaml_Person3.1\\CustomXaml\\CustomXaml\\CustomXaml.csproj",
+              "RelativeToolTip": "CustomXaml\\CustomXaml.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-27T00:38:14.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Person.xaml.cs",
+              "DocumentMoniker": "C:\\VS\\VC_TEST\\02_WPF\\test4_WPF\u52C9\u5F3701\\CustomXaml_Person3.1\\CustomXaml\\CustomXaml\\Person.xaml.cs",
+              "RelativeDocumentMoniker": "CustomXaml\\Person.xaml.cs",
+              "ToolTip": "C:\\VS\\VC_TEST\\02_WPF\\test4_WPF\u52C9\u5F3701\\CustomXaml_Person3.1\\CustomXaml\\CustomXaml\\Person.xaml.cs",
+              "RelativeToolTip": "CustomXaml\\Person.xaml.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T00:23:34.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.xaml",
+              "DocumentMoniker": "C:\\VS\\VC_TEST\\02_WPF\\test4_WPF\u52C9\u5F3701\\CustomXaml_Person3.1\\CustomXaml\\CustomXaml\\Person.xaml",
+              "RelativeDocumentMoniker": "CustomXaml\\Person.xaml",
+              "ToolTip": "C:\\VS\\VC_TEST\\02_WPF\\test4_WPF\u52C9\u5F3701\\CustomXaml_Person3.1\\CustomXaml\\CustomXaml\\Person.xaml",
+              "RelativeToolTip": "CustomXaml\\Person.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-27T00:16:53.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\VS\\VC_TEST\\02_WPF\\test4_WPF\u52C9\u5F3701\\CustomXaml_Person3.1\\CustomXaml\\CustomXaml\\Person.cs",
+              "RelativeDocumentMoniker": "CustomXaml\\Person.cs",
+              "ToolTip": "C:\\VS\\VC_TEST\\02_WPF\\test4_WPF\u52C9\u5F3701\\CustomXaml_Person3.1\\CustomXaml\\CustomXaml\\Person.cs",
+              "RelativeToolTip": "CustomXaml\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T08:57:42.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\VS\\VC_TEST\\02_WPF\\test4_WPF\u52C9\u5F3701\\CustomXaml_Person3.1\\CustomXaml\\CustomXaml\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "CustomXaml\\MainWindow.xaml",
+              "ToolTip": "C:\\VS\\VC_TEST\\02_WPF\\test4_WPF\u52C9\u5F3701\\CustomXaml_Person3.1\\CustomXaml\\CustomXaml\\MainWindow.xaml",
+              "RelativeToolTip": "CustomXaml\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-26T08:29:06.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\VS\\VC_TEST\\02_WPF\\test4_WPF\u52C9\u5F3701\\CustomXaml_Person3.1\\CustomXaml\\CustomXaml\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CustomXaml\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\VS\\VC_TEST\\02_WPF\\test4_WPF\u52C9\u5F3701\\CustomXaml_Person3.1\\CustomXaml\\CustomXaml\\MainWindow.xaml.cs",
+              "RelativeToolTip": "CustomXaml\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T08:29:03.324Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
