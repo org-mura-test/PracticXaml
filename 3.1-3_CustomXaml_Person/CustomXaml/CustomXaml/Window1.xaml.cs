@@ -48,7 +48,7 @@ namespace CustomXaml
             Console.WriteLine("p.Birthday = {0}", p.Birthday);
         }
 
-
+        //　ボタン１クリック
         private void btn1_Click(object sender, RoutedEventArgs e)
         {
             set_birthday();
